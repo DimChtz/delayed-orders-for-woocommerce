@@ -1,2 +1,2 @@
-# woocommerce-delayed-orders
+# Delayed Orders for WooCommerce
 Delayed orders management for WooCommerce
